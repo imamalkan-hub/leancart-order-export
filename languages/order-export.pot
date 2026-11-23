@@ -1,0 +1,36 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: LeanCart Order Export\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "CSV delimiter"
+msgstr ""
+
+msgid "Default: comma."
+msgstr ""
+
+msgid "Download CSV"
+msgstr ""
+
+msgid "Example site:"
+msgstr ""
+
+msgid "Export orders"
+msgstr ""
+
+msgid "Settings"
+msgstr ""
+
+msgid "Shortcuts"
+msgstr ""
+
+msgid "This plugin requires WooCommerce to be active."
+msgstr ""
+
+msgid "WooCommerce Settings"
+msgstr ""
+
+msgid "You are not allowed to access this page."
+msgstr ""
